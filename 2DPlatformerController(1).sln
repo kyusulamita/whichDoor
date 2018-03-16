@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatformerController", "2DPlatformerController.csproj", "{F017CDCF-CD30-2968-756E-74FD073D94F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatformerController.Plugins", "2DPlatformerController.Plugins.csproj", "{AF6BFB64-A53F-B034-57A0-918180889FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatformerController.Editor.Plugins", "2DPlatformerController.Editor.Plugins.csproj", "{B7B411EC-4592-1920-293F-DCAA84A52519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F017CDCF-CD30-2968-756E-74FD073D94F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F017CDCF-CD30-2968-756E-74FD073D94F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F017CDCF-CD30-2968-756E-74FD073D94F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F017CDCF-CD30-2968-756E-74FD073D94F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6BFB64-A53F-B034-57A0-918180889FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6BFB64-A53F-B034-57A0-918180889FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6BFB64-A53F-B034-57A0-918180889FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6BFB64-A53F-B034-57A0-918180889FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B411EC-4592-1920-293F-DCAA84A52519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B411EC-4592-1920-293F-DCAA84A52519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B411EC-4592-1920-293F-DCAA84A52519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B411EC-4592-1920-293F-DCAA84A52519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
