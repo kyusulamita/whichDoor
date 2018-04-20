@@ -13,34 +13,25 @@ I'm not! There are certainly still a good number of buggy things I want to fix. 
 a link so others can play as well.
 
 
-            SULAMITASULAMITA      SULAMITA            SULAMITA  SULAMITA                  SULAMITASULAMITA                  
-       SULAMITA                   SULAMITA            SULAMITA  SULAMITA                  SULAMITA  SULAMITA                
-   SULAMITA                       SULAMITA            SULAMITA  SULAMITA                  SULAMITA   SULAMITA               
- SULAMITA                         SULAMITA            SULAMITA  SULAMITA                  SULAMITA    SULAMITA              
-SULAMITA                          SULAMITA            SULAMITA  SULAMITA                  SULAMITA     SULAMITA             
-  SULAMITA                        SULAMITA            SULAMITA  SULAMITA                  SULAMITA      SULAMITA            
-      SULAMITA                    SULAMITA            SULAMITA  SULAMITA                  SULAMITA       SULAMITA           
-            SULAMITASULAMITA      SULAMITA            SULAMITA  SULAMITA                  SULAMITA        SULAMITA          
-                       SULAMITA   SULAMITA            SULAMITA  SULAMITA                  SULAMITA SULAMITASULAMITA         
-                        SULAMITA  SULAMITA            SULAMITA  SULAMITA                  SULAMITA SULAMITA SULAMITA        
-                       SULAMITA   SULAMITA            SULAMITA  SULAMITA                  SULAMITA           SULAMITA       
-                     SULAMITA     SULAMITA            SULAMITA  SULAMITA                  SULAMITA            SULAMITA      
-                  SULAMITA         SULAMITA          SULAMITA   SULAMITA                  SULAMITA             SULAMITA     
-              SULAMITA              SULAMITA        SULAMITA    SULAMITA                  SULAMITA              SULAMITA    
-          SULAMITA                    SULAMITA    SULAMITA      SULAMITASULAMITASULAMITA  SULAMITA               SULAMITA   
-     SULAMITA                           SULAMITASULAMITA        SULAMITASULAMITASULAMITA  SULAMITA                SULAMITA  
-SULAMITA                    SULAMITA  SULAMITASULAMITASULAMITA  SULAMITASULAMITASULAMITA  SULAMITASULAMITA
-SULAMITASULAMITA    SULAMITASULAMITA  SULAMITASULAMITASULAMITA  SULAMITASULAMITASULAMITA  SULAMITA  SULAMITA
-SULAMITASULAMITA    SULAMITASULAMITA          SULAMITA                  SULAMITA          SULAMITA   SULAMITA
-SULAMITA SULAMITA  SULAMITA SULAMITA          SULAMITA                  SULAMITA          SULAMITA    SULAMITA
-SULAMITA  SULAMITASULAMITA  SULAMITA          SULAMITA                  SULAMITA          SULAMITA     SULAMITA
-SULAMITA  SULAMITASULAMITA  SULAMITA          SULAMITA                  SULAMITA          SULAMITA      SULAMITA
-SULAMITA       SULAMITA     SULAMITA          SULAMITA                  SULAMITA          SULAMITA       SULAMITA
-SULAMITA       SULAMITA     SULAMITA          SULAMITA                  SULAMITA          SULAMITA        SULAMITA
-SULAMITA                    SULAMITA          SULAMITA                  SULAMITA          SULAMITA SULAMITASULAMITA
-SULAMITA                    SULAMITA          SULAMITA                  SULAMITA          SULAMITA SULAMITA SULAMITA
-SULAMITA                    SULAMITA          SULAMITA                  SULAMITA          SULAMITA           SULAMITA
-SULAMITA                    SULAMITA          SULAMITA                  SULAMITA          SULAMITA            SULAMITA
-SULAMITA                    SULAMITA          SULAMITA                  SULAMITA          SULAMITA             SULAMITA
-SULAMITA                    SULAMITA  SULAMITASULAMITASULAMITA          SULAMITA          SULAMITA              SULAMITA
-SULAMITA                    SULAMITA  SULAMITASULAMITASULAMITA          SULAMITA          SULAMITA               SULAMITA
+
+         SULAMITASULAMITA    SULAMITA        SULAMITA    SULAMITA                           SULAMITA
+       SULAMITASULAMITA      SULAMITA        SULAMITA    SULAMITA                   SULAMITASULAMITA
+     SULAMITA               SULAMITA        SULAMITA    SULAMITA                   SULAMITA SULAMITA
+    SULAMITA                SULAMITA        SULAMITA    SULAMITA                  SULAMITA  SULAMITA
+     SULAMITASULAMITA      SULAMITA        SULAMITA    SULAMITA                  SULAMITA   SULAMITA
+      SULAMITASULAMITA     SULAMITA        SULAMITA    SULAMITA                 SULAMITASULAMITASULAMITA
+             SULAMITA     SULAMITA        SULAMITA    SULAMITA                  SULAMITASULAMITASULAMITA
+            SULAMITA      SULAMITA       SULAMITA     SULAMITA                  SULAMITA        SULAMITA
+   SULAMITASULAMITA         SULAMITA    SULAMITA     SULAMITASULAMITASULAMITA  SULAMITA          SULAMITA
+SULAMITASULAMITA             SULAMITASULAMITA        SULAMITASULAMITASULAMITA  SULAMITA           SULAMITA
+
+       SULAMITA                SULAMITA             SULAMITA  SULAMITASULAMITASULAMITA          SULAMITA
+   SULAMITASULAMITA        SULAMITA SULAMITA        SULAMITA  SULAMITASULAMITASULAMITA  SULAMITASULAMITA
+  SULAMITA SULAMITA       SULAMITA  SULAMITA       SULAMITA          SULAMITA          SULAMITA SULAMITA
+  SULAMITA SULAMITA       SULAMITA  SULAMITA       SULAMITA          SULAMITA         SULAMITA  SULAMITA
+ SULAMITA   SULAMITA     SULAMITA  SULAMITA       SULAMITA          SULAMITA         SULAMITA   SULAMITA
+ SULAMITA   SULAMITA     SULAMITA  SULAMITA       SULAMITA          SULAMITA       SULAMITASULAMITASULAMITA
+SULAMITA     SULAMITA   SULAMITA    SULAMITA     SULAMITA          SULAMITA        SULAMITASULAMITASULAMITA
+SULAMITA      SULAMITA  SULAMITA    SULAMITA     SULAMITA          SULAMITA        SULAMITA        SULAMITA
+SULAMITA        SULAMITASULAMITA     SULAMITA   SULAMITA          SULAMITA        SULAMITA          SULAMITA
+SULAMITA            SULAMITA          SULAMITA  SULAMITA          SULAMITA        SULAMITA           SULAMITA
